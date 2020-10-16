@@ -1,6 +1,5 @@
 import math
 import pygame
-from queue import PriorityQueue
 import sys
 sys.setrecursionlimit(10**6)
 
